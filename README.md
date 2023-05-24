@@ -23,7 +23,7 @@ std::vector: 47
 vektorius: 28
 
 spartos analizė, naudojant duomenų failą su 100000 studentų įrašų:
-| klasė | nuskaitymas | rūšiavimas | išvedimas | studentų skirstymas | visas laikas (su įvedimu)) |
+| klasė | nuskaitymas | rūšiavimas | išvedimas | studentų skirstymas | visas laikas (su įvedimu) |
 | --- | --- | --- | --- | --- | --- |
 | std::vector | 312ms | 135ms | 110ms | 18ms | 5192ms |
 | vektorius | 297ms | 236ms | 117ms | 34ms | 6532ms |
