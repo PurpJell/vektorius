@@ -8,7 +8,7 @@ at() - gražina elementą, esantį nurodytoje pozicijoje.
 
 vektorius ir std::vector pildymas int tipo elementais:
 
-| |          | std::vector |    | vektorius |
+| x | std::vector | vektorius |
 | --- | --- | --- |
 | 10000 |      0ms |            0ms |
 | 100000 |    0ms |            0ms |
