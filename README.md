@@ -8,12 +8,13 @@ at() - gražina elementą, esantį nurodytoje pozicijoje.
 
 vektorius ir std::vector pildymas int tipo elementais:
 
-           std::vector    vektorius
-10000:     0ms            0ms
-100000:    0ms            0ms
-1000000:   3ms            1ms
-10000000:  39ms           27ms
-100000000: 511ms          406ms
+| |          | std::vector |    | vektorius |
+| --- | --- | --- |
+| 10000 |      0ms |            0ms |
+| 100000 |    0ms |            0ms |
+| 1000000 |   3ms |           1ms |
+| 10000000 |  39ms |          27ms |
+| 100000000 | 511ms |         406ms |
 
 konteinerių (vektorius ir std::vector) atminties perskirstymų skaičius užpildant juos 100000000 elementų.
 
