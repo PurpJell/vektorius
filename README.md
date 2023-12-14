@@ -1,10 +1,10 @@
 Funkcijų, kurios veikia taip pat vektorius klasėje ir std::vector pavyzdžiai:
 
 push_back() - į vektorių įdeda paduotą reikšmę.
-begin() - gražina vektoriaus pirmo elemento adresą.
+begin() - grąžina vektoriaus pirmo elemento adresą.
 insert() - įterpia duotą reikšmę į nurodytą poziciją.
-size() - gražina skaičių, kuris rodo, kiek elementų yra vektoriuje.
-at() - gražina elementą, esantį nurodytoje pozicijoje.
+size() - grąžina skaičių, kuris rodo, kiek elementų yra vektoriuje.
+at() - grąžina elementą, esantį nurodytoje pozicijoje.
 
 vektorius ir std::vector pildymas int tipo elementais:
 
